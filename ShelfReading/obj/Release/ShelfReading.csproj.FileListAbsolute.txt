@@ -1,0 +1,11 @@
+W:\Library Programs\ShelfReading\ShelfReading\bin\Release\ShelfReading.exe.config
+W:\Library Programs\ShelfReading\ShelfReading\obj\Release\ShelfReading._2ShelfForm.resources
+W:\Library Programs\ShelfReading\ShelfReading\obj\Release\ShelfReading._3ShelfForm.resources
+W:\Library Programs\ShelfReading\ShelfReading\obj\Release\ShelfReading._6ShelfForm.resources
+W:\Library Programs\ShelfReading\ShelfReading\obj\Release\ShelfReading._7ShelfForm.resources
+W:\Library Programs\ShelfReading\ShelfReading\obj\Release\ShelfReading._8ShelfForm.resources
+W:\Library Programs\ShelfReading\ShelfReading\obj\Release\ShelfReading._9ShelfForm.resources
+W:\Library Programs\ShelfReading\ShelfReading\obj\Release\ShelfReading.Floor2.resources
+W:\Library Programs\ShelfReading\ShelfReading\obj\Release\ShelfReading.Properties.Resources.resources
+W:\Library Programs\ShelfReading\ShelfReading\obj\Release\ShelfReading.User.resources
+W:\Library Programs\ShelfReading\ShelfReading\obj\Release\ShelfReading.csproj.GenerateResource.Cache

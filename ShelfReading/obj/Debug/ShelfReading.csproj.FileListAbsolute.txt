@@ -1,0 +1,65 @@
+W:\Library Programs\ShelfReading\ShelfReading\bin\Debug\ShelfReading.exe.config
+W:\Library Programs\ShelfReading\ShelfReading\obj\Debug\ShelfReading._9ShelfForm.resources
+W:\Library Programs\ShelfReading\ShelfReading\obj\Debug\ShelfReading.Floor2.resources
+W:\Library Programs\ShelfReading\ShelfReading\obj\Debug\ShelfReading.Properties.Resources.resources
+W:\Library Programs\ShelfReading\ShelfReading\obj\Debug\ShelfReading.User.resources
+W:\Library Programs\ShelfReading\ShelfReading\obj\Debug\ShelfReading.csproj.GenerateResource.Cache
+W:\Library Programs\ShelfReading\ShelfReading\bin\Debug\ShelfReading.exe
+W:\Library Programs\ShelfReading\ShelfReading\bin\Debug\ShelfReading.pdb
+W:\Library Programs\ShelfReading\ShelfReading\bin\Debug\EntityFramework.dll
+W:\Library Programs\ShelfReading\ShelfReading\bin\Debug\EntityFramework.SqlServer.dll
+W:\Library Programs\ShelfReading\ShelfReading\bin\Debug\System.Data.SQLite.dll
+W:\Library Programs\ShelfReading\ShelfReading\bin\Debug\System.Data.SQLite.EF6.dll
+W:\Library Programs\ShelfReading\ShelfReading\bin\Debug\System.Data.SQLite.Linq.dll
+W:\Library Programs\ShelfReading\ShelfReading\bin\Debug\EntityFramework.xml
+W:\Library Programs\ShelfReading\ShelfReading\bin\Debug\EntityFramework.SqlServer.xml
+W:\Library Programs\ShelfReading\ShelfReading\bin\Debug\System.Data.SQLite.xml
+W:\Library Programs\ShelfReading\ShelfReading\obj\Debug\ShelfReading.exe
+W:\Library Programs\ShelfReading\ShelfReading\obj\Debug\ShelfReading.pdb
+W:\Library Programs\ShelfReading\ShelfReading\obj\Debug\ShelfReading.admin.resources
+W:\Library Programs\ShelfReading\ShelfReading\obj\Debug\ShelfReading._20ShelfForm.resources
+W:\Library Programs\ShelfReading\ShelfReading\obj\Debug\ShelfReading.Report.resources
+W:\ShelfReading\ShelfReading\bin\Debug\ShelfReading.exe.config
+W:\ShelfReading\ShelfReading\obj\Debug\ShelfReading.exe
+W:\ShelfReading\ShelfReading\obj\Debug\ShelfReading.pdb
+W:\Library Programs\ShelfReading\ShelfReading\obj\Debug\ShelfReading.Priorityform.resources
+G:\ShelfReading\ShelfReading\bin\Debug\ShelfReading.exe.config
+G:\ShelfReading\ShelfReading\obj\Debug\ShelfReading.exe
+G:\ShelfReading\ShelfReading\obj\Debug\ShelfReading.pdb
+G:\ShelfReading\ShelfReading\obj\Debug\ShelfReading.csprojResolveAssemblyReference.cache
+G:\ShelfReading\ShelfReading\obj\Debug\ShelfReading._20ShelfForm.resources
+G:\ShelfReading\ShelfReading\obj\Debug\ShelfReading._2ShelfForm.resources
+G:\ShelfReading\ShelfReading\obj\Debug\ShelfReading._3ShelfForm.resources
+G:\ShelfReading\ShelfReading\obj\Debug\ShelfReading._6ShelfForm.resources
+G:\ShelfReading\ShelfReading\obj\Debug\ShelfReading._7ShelfForm.resources
+G:\ShelfReading\ShelfReading\obj\Debug\ShelfReading._8ShelfForm.resources
+G:\ShelfReading\ShelfReading\obj\Debug\ShelfReading._9ShelfForm.resources
+G:\ShelfReading\ShelfReading\obj\Debug\ShelfReading.admin.resources
+G:\ShelfReading\ShelfReading\obj\Debug\ShelfReading.Floor2.resources
+G:\ShelfReading\ShelfReading\obj\Debug\ShelfReading.Floor3.resources
+G:\ShelfReading\ShelfReading\obj\Debug\ShelfReading.Priorityform.resources
+G:\ShelfReading\ShelfReading\obj\Debug\ShelfReading.Properties.Resources.resources
+G:\ShelfReading\ShelfReading\obj\Debug\ShelfReading.Report.resources
+G:\ShelfReading\ShelfReading\obj\Debug\ShelfReading.User.resources
+G:\ShelfReading\ShelfReading\obj\Debug\ShelfReading.csproj.GenerateResource.Cache
+G:\ShelfReading\ShelfReading\bin\Debug\ShelfReading.exe
+G:\ShelfReading\ShelfReading\bin\Debug\ShelfReading.pdb
+G:\ShelfReading\ShelfReading\bin\Debug\EntityFramework.dll
+G:\ShelfReading\ShelfReading\bin\Debug\EntityFramework.SqlServer.dll
+G:\ShelfReading\ShelfReading\bin\Debug\System.Data.SQLite.dll
+G:\ShelfReading\ShelfReading\bin\Debug\System.Data.SQLite.EF6.dll
+G:\ShelfReading\ShelfReading\bin\Debug\System.Data.SQLite.Linq.dll
+G:\ShelfReading\ShelfReading\bin\Debug\EntityFramework.xml
+G:\ShelfReading\ShelfReading\bin\Debug\EntityFramework.SqlServer.xml
+G:\ShelfReading\ShelfReading\bin\Debug\System.Data.SQLite.xml
+W:\Library Programs\ShelfReading\ShelfReading\obj\Debug\ShelfReading._14ShelfForm.resources
+W:\Library Programs\ShelfReading\ShelfReading\obj\Debug\ShelfReading.TaskForm.resources
+W:\Library Programs\ShelfReading\ShelfReading\obj\Debug\ShelfReading.addChores.resources
+W:\Library Programs\ShelfReading\ShelfReading\obj\Debug\ShelfReading.ChoresForm.resources
+W:\Library Programs\ShelfReading\ShelfReading\obj\Debug\ShelfReading.Archives.resources
+W:\Library Programs\ShelfReading\ShelfReading\obj\Debug\ShelfReading._30ShelfForm.resources
+W:\Library Programs\ShelfReading\ShelfReading\obj\Debug\ShelfReading.csprojResolveAssemblyReference.cache
+W:\Library Programs\ShelfReading\ShelfReading\obj\Debug\ShelfReading.ThirdFloor.resources
+W:\Library Programs\ShelfReading\ShelfReading\obj\Debug\ShelfReading.AlterRanges.resources
+J:\Library Programs\ShelfReading\ShelfReading\bin\Debug\ShelfReading.exe.config
+J:\Library Programs\ShelfReading\ShelfReading\obj\Debug\ShelfReading.csprojResolveAssemblyReference.cache

@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{68F5C857-D2A4-498E-97AC-1ED451278731}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ShelfReading</RootNamespace>
+    <AssemblyName>ShelfReading</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <NuGetPackageImportStamp>1d88a113</NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Shelfreading|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Shelfreading\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>ShelfReading.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite">
+      <HintPath>..\packages\System.Data.SQLite.Core.1.0.98.1\lib\net45\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.98.1\lib\net45\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.98.1\lib\net45\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="14ShelfForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="14ShelfForm.Designer.cs">
+      <DependentUpon>14ShelfForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="20ShelfForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="20ShelfForm.Designer.cs">
+      <DependentUpon>20ShelfForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="30ShelfForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="30ShelfForm.Designer.cs">
+      <DependentUpon>30ShelfForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="9ShelfForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="9ShelfForm.Designer.cs">
+      <DependentUpon>9ShelfForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addChores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addChores.Designer.cs">
+      <DependentUpon>addChores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin.Designer.cs">
+      <DependentUpon>admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlterRanges.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlterRanges.Designer.cs">
+      <DependentUpon>AlterRanges.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Archives.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Archives.Designer.cs">
+      <DependentUpon>Archives.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chores.cs" />
+    <Compile Include="ChoresForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChoresForm.Designer.cs">
+      <DependentUpon>ChoresForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Floor2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Floor2.Designer.cs">
+      <DependentUpon>Floor2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Floor3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Floor3.Designer.cs">
+      <DependentUpon>Floor3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Priorityform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Priorityform.Designer.cs">
+      <DependentUpon>Priorityform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reading.cs" />
+    <Compile Include="Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report.Designer.cs">
+      <DependentUpon>Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TaskForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TaskForm.Designer.cs">
+      <DependentUpon>TaskForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User.Designer.cs">
+      <DependentUpon>User.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="14ShelfForm.resx">
+      <DependentUpon>14ShelfForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="20ShelfForm.resx">
+      <DependentUpon>20ShelfForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="30ShelfForm.resx">
+      <DependentUpon>30ShelfForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="9ShelfForm.resx">
+      <DependentUpon>9ShelfForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addChores.resx">
+      <DependentUpon>addChores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin.resx">
+      <DependentUpon>admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlterRanges.resx">
+      <DependentUpon>AlterRanges.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Archives.resx">
+      <DependentUpon>Archives.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChoresForm.resx">
+      <DependentUpon>ChoresForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Floor2.resx">
+      <DependentUpon>Floor2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Floor3.resx">
+      <DependentUpon>Floor3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Priorityform.resx">
+      <DependentUpon>Priorityform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Report.resx">
+      <DependentUpon>Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TaskForm.resx">
+      <DependentUpon>TaskForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User.resx">
+      <DependentUpon>User.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\System.Data.SQLite.Core.1.0.98.1\build\net45\System.Data.SQLite.Core.targets" Condition="Exists('..\packages\System.Data.SQLite.Core.1.0.98.1\build\net45\System.Data.SQLite.Core.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Data.SQLite.Core.1.0.98.1\build\net45\System.Data.SQLite.Core.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Data.SQLite.Core.1.0.98.1\build\net45\System.Data.SQLite.Core.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
